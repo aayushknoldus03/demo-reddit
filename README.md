@@ -14,7 +14,6 @@ Before you begin, you should have the following tools installed on your local ma
 
 You can install Prerequisites by doing these steps. [click here & complete all steps one by one]().
 
-
 ## Installation
 Follow these steps to install and run the Reddit clone app on your local machine:
 
